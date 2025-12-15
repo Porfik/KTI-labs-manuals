@@ -1,11 +1,11 @@
 # Материалы к лабораторным по КТИ
-![GitHub repo size](https://img.shields.io/github/repo-size/Porfik/DTI-lab-manual) ![GitHub Repo stars](https://img.shields.io/github/stars/Porfik/DTI-lab-manual)
+![GitHub Repo stars](https://flat.badgen.net/github/stars/Porfik/KTI-labs-manuals)
 
 На данной странице расположено все, что понадобится для выполнения лабораторных по КТИ (конструкторско-технологическая информатика). Всего нужно выполнить 4 лабораторные работы, для каждой есть отдельная методичка.
 
 ---
 
-> Нашли ошибку или опечатку? Пишите в ТГ: @Porfik_Porf
+> Нашли ошибку или опечатку? Пишите в ТГ: [@Porfik_Porf](https://t.me/Porfik_Porf)
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### Методички
 Список метод в порядке выполнения:
+
 1. [**Установка гипервизора и создание виртуальных машин**](manuals/Lab_1.md)
 2. [**Установка python и запуск веб-сервера flask**](manuals/Lab_2.md)
 3. [**Выпуск TLS-сертификатов и работа с git-репозиториями**](manuals/Lab_3.md)
