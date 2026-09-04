@@ -41,11 +41,7 @@
 
 ![Установка VMware Workstation Pro](../images/preparation_for_labs/0.7.png)
 
-При первом открытии установленного гипервизора появится такое окно:
-
-![Вот тебе и welcome, деньги им ещё платить!](../images/preparation_for_labs/0.8.png)
-
-Так как 30 пробных дней нам не хватит, мы позаимствуем лицензионный ключ [отсюда](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) и вставим в соответствующее поле.
+![Установка VMware Workstation Pro](../images/preparation_for_labs/0.8.png)
 
 ---
 
